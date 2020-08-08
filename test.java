@@ -9,6 +9,9 @@ public class test   {
         System.out.print("Enter a number: ");
 
 
+
+
+
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
 
