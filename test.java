@@ -3,9 +3,7 @@ public class test   {
     public static void main(String[] args) {
 
         // Creates a reader instance which takes
-		
-		
-		
+	
 		
 		
         // input from standard input - keyboard
@@ -25,3 +23,6 @@ public class test   {
         System.out.println("You entered: " + number);
     }
 }
+
+
+
