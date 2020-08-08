@@ -9,6 +9,8 @@ public class test   {
 		
 		
 		
+		
+		
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
 		
