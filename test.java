@@ -8,10 +8,6 @@ public class test   {
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter a number: ");
 
-
-
-
-
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
 
