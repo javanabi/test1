@@ -10,9 +10,6 @@ public class test   {
 		
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
-
-
-
         System.out.print("Enter a number: ");
 
         // nextInt() reads the next integer from the keyboard
