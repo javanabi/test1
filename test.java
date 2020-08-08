@@ -1,70 +1,16 @@
-edited
-edited
-editededitededitededitededited
-editededitededi 
+public class test {
 
+    public static void main(String[] args) {
 
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
+        // Creates a reader instance which takes
+        // input from standard input - keyboard
+        Scanner reader = new Scanner(System.in);
+        System.out.print("Enter a number: ");
 
+        // nextInt() reads the next integer from the keyboard
+        int number = reader.nextInt();
 
-itededited
-editededitededit ditededited
-
-
-
-
-
-
-
-asdfasdfsaf
-sa
-fdsafsad
-f
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-   
-
-itededited 
-
-itededited
-editededitededit ditededited
-editededitededitededitededited
-edited
-
-
-
-
-
-
-Git               
-	Local Hooks
-	Server side Hooks      	                	       
-	        
+        // println() prints the following line to the output screen
+        System.out.println("You entered: " + number);
+    }
+}

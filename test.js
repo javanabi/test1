@@ -1,67 +1,9 @@
-edited
-edited
-editededitededitededitededited
-editededitededi 
+<html>  
+<body>  
+<script type="text/javascript">  
+ alert("Hello Javatpoint");  
+</script>  
+</body>  
+</html>  
 
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-
-
-
-
-editededitededit ditededited
-
-
-
-
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-
-itededited
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited
-editededitededi 
-
-   
-
-itededited 
-
-itededited
-editededitededit ditededited
-editededitededitededitededited
-edited
-
-
-
-
-
-
-Git               
-	Local Hooks
-	Server side Hooks      	                	       
-	        
+ 
