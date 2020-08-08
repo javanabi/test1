@@ -2,8 +2,7 @@ public class test   {
 
     public static void main(String[] args) {
 
-        // Creates a reader instance which takes
-		
+        // Creates a reader instance which take
 		
 		
 		
