@@ -13,7 +13,7 @@ public class test   {
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
 
-         // println() prints the following line to the output screen
+          // println() prints the following line to the output screen
 		
 		
 		
