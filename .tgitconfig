@@ -1,0 +1,4 @@
+[hook "precommit"]
+	cmdline = C:\\git_code\\test1\\.git\\hooks\\pre-commit
+	wait = true
+	show = false
