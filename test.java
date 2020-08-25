@@ -10,6 +10,8 @@ public class test   {
 		 
 		  
 		
+		
+		
 		 
         System.out.print("Enter a number: ");
 
@@ -21,6 +23,8 @@ public class test   {
 
 
         // println() prints the following line to the output screen
+		
+		
 		
 		
 		
