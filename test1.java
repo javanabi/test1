@@ -5,6 +5,7 @@ public class test   {
         // Creates a reader instance which takes
 		// input from standard input - keyboard
 		         
+				 
 				
         Scanner reader = new Scanner(System.in);
 		
@@ -14,6 +15,9 @@ public class test   {
         int number = reader.nextInt();
 
             // println() prints the following line to the output screen
+		
+		
+		
 		
 		
 		
