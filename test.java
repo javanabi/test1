@@ -5,11 +5,13 @@ public class test   {
         // Creates a reader instance which takes
 		
         // input fro  m standard input - keyboard
-        Scanner reader = new Scanner(System.in); 
+        Scanner reader = new Scanner(System.in);
+		 
         System.out.print("Enter a number: ");
 
         // nextInt() reads the next integer from the keyboard
-        int number = reader.nextInt(); 
+        int number = reader.nextInt();
+
         // println() prints the following line to the output screen
 		
         System.out.println("You entered: " + number);
