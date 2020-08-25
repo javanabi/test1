@@ -8,10 +8,6 @@ public class test   {
         // input fro  m standard input - keyboard
         Scanner reader = new Scanner(System.in);
 		 
-		  
-		
-		
-		
 		 
         System.out.print("Enter a number: ");
 
