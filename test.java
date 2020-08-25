@@ -3,7 +3,7 @@ public class test   {
     public static void main(String[] args) {
 
         // Creates a reader instance which takes
-		
+		    
         // input fro  m standard input - keyboard
         Scanner reader = new Scanner(System.in);
 		 

@@ -4,7 +4,7 @@ public class test   {
 
         // Creates a reader instance which takes
 		// input from standard input - keyboard
-		         
+		             
 				 
 				
         Scanner reader = new Scanner(System.in);
