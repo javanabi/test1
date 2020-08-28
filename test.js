@@ -1,13 +1,12 @@
 <html>  
 <body>  
-<script type="text/javascript">  
- alert("Hello Javatpoint");  
+<script type="text/javascript">   
 </script>  
 </body>  
 
 
 
-   
+     
 
 
 
