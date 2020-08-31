@@ -1,4 +1,4 @@
-public class test   {
+ System.out.println(number);public class test   {
 
     public static void main(String[] args) {
 
@@ -12,6 +12,8 @@ public class test   {
         int number = reader.nextInt();
 
         // println() prints the following line to the output screen
+		
+		 System.out.println(number);
 		 
     }
 }
