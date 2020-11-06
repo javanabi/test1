@@ -4,13 +4,7 @@
  alert("Hello Javatpoint");  
 </script>  
 </body>  
-
-
-
-
-
-
-   
+ 
 
 
 

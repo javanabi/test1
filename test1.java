@@ -6,8 +6,7 @@ public class test   {
 		// input from standard input - keyboard
 		             
 		 Scanner reader = new Scanner(System.in);
-		
-        System.out.print("Enter a number: ");
+		 System.out.println("test");
 
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
@@ -18,12 +17,7 @@ public class test   {
 		
 		
 		
-		
-		
-		
-		
-		
-        System.out.println("You entered: " + number);
+		 
     }
 }
 
