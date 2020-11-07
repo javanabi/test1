@@ -6,7 +6,7 @@ public class test   {
 		// input from standard input - keyboard
 		             
 		 Scanner reader = new Scanner(System.in);
-		 System.out.println("test");  
+		 System.out.println("test");    
 		 
 		 
 		 
