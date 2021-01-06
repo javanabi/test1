@@ -12,7 +12,7 @@ public class test   {
 		 Scanner reader = new Scanner(System.in);                 
 		 System.out.println("test");           
 		     
-		    
+		     
 		       
 		      
 		          
@@ -30,7 +30,7 @@ public class test   {
 		
 		
 		
-		
+		 
 		
 		 
     }  
