@@ -1,32 +1,34 @@
-edited
-edited
-editededitededitededitededited    
- 
-editededitededi        
-             
- 
-itededited              
-editededitededit ditededited    
-editededitededitededitededitededitededitededitededitededited
-editededitededi       s
-  
 
-itededited
-   
-editededitededit ditededited
-editededitededitededitededitededitededitededitededitededited   
-editededitededi   
- 
-   
-itededited   
-editededitededit ditededited 
-editededitededitededitededitededitededitededitededitededited 
-editededitededi 
-   
-          
-itededited
-editededitededit ditededited
 
+INSERT INTO Git_insert_check(commitmessage,user,email,branch,repositorypath,commitdate) VALUES ('tesssss','Abdul','java.nabi@gmail.com','abbunabi_b','https://github.com/javanabi/test1.git',now());
+
+CREATE TABLE contacts (
+	contact_id integer PRIMARY KEY,
+	first_name text NOT NULL,
+	last_name text NOT NULL,
+	email text NOT NULL UNIQUE,
+	phone text NOT NULL UNIQUE
+);
+
+CREATE TABLE git_insert_check (
+  Sno INTEGER PRIMARY KEY AUTOINCREMENT,
+  CommitMessage varchar(100) NOT NULL,
+  User varchar(100) NOT NULL,
+  email varchar(100) NOT NULL,
+  Branch varchar(100) NOT NULL,
+  RepositoryPath varchar(500) NOT NULL,
+  commiteddate timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP 
+)
+
+sqlite3 git_insert_check.db "insert into git_insert_check (CommitMessage,User,email,Branch,RepositoryPath) 
+         values ("test","test","test","test","test");"
+
+sqlite queries:
+---------------
+sqlite> .open git_commits_logs.db
+sqlite> .tables
+git_insert_check
+sqlite> select * from git_insert_check;
 
 
 editededitededitededitededitededitededitededited
